@@ -64,6 +64,7 @@ a{
     
     
 }
+
 ul li:nth-child(odd){
     background-color: rgb(127, 188, 238);
 }
